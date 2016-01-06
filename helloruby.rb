@@ -1,4 +1,7 @@
-print("Hello, Ruby.\n")
+puts "Hello Ruby"
+
+
+puts "Hello", "fafafeee"
 
 
 
